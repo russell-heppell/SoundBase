@@ -1,0 +1,6 @@
+framework module Pods_SoundBase_SoundBaseUITests {
+  umbrella header "Pods-SoundBase-SoundBaseUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_SoundBaseTests {
+  umbrella header "Pods-SoundBaseTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
